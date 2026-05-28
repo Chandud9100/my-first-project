@@ -11,5 +11,5 @@ This is my first repository. I created it while following a Git bootcamp.
 - Making commits
 - Pushing code
 - I'm chandu
-sdfghjkl
-fdhsjkldfs
+- today 5/28/2026
+
