@@ -9,3 +9,8 @@
 - Description: To be announced
 - Skills used: TBD
 - Status: Planning
+
+## Goals
+- Build 5 projects this year
+- Contribute to open source
+- Get my first developer job
