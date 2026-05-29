@@ -1,0 +1,27 @@
+# Secret files - NEVER push these
+.env
+config.env
+secrets.txt
+*.key
+*.pem
+
+# Personal editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Dependencies (huge folders)
+node_modules/
+vendor/
+
+# Build files (generated automatically)
+dist/
+build/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
