@@ -25,3 +25,11 @@ build/
 # Temporary files
 *.tmp
 *.temp
+
+# New ignores
+config.env
+api_keys.txt
+*.secret
+database.yml
+*.csv
+temp/
